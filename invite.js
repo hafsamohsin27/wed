@@ -32,7 +32,7 @@ const REDUCED = matchMedia("(prefers-reduced-motion: reduce)").matches;
 
 const EVENTS = [
   { key:"mehndi", ur:"مہندی", en:"Mehendi",
-    date:"26 November 2026", dow:"Thursday", time:"4:00 PM",
+    date:"26 November 2026", dow:"Thursday", time:"5:00 PM",
     venue:"Qasre Ismail Zia Banquet Hall", card:"mehndi-card.jpg", cw:1060, ch:1484,
     q:"31.5159159, 74.2677189", zoom:18, accent:"#9FD08A" },
   { key:"baraat", ur:"برات", en:"Baraat",
